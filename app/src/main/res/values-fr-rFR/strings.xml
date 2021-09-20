@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Ma Première Application</string>
     <string name="hello">Bonjour</string>
+    <string name="hello_world">Salut le monde!</string>
 </resources>
